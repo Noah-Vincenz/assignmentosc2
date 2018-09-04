@@ -1,3 +1,3 @@
 # assignmentosc2
 
-This project simulates the allocation of memory and page table entries.
+This projects simulates the allocation of page table entries and memory management units.
